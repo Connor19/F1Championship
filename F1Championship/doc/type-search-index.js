@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Championship"},{"p":"<Unnamed>","l":"Details"},{"p":"<Unnamed>","l":"Driver"},{"p":"<Unnamed>","l":"F1ChampionshipTest"},{"p":"<Unnamed>","l":"Mechanic"},{"p":"<Unnamed>","l":"Team"},{"p":"<Unnamed>","l":"TeamMember"}];updateSearchResults();
